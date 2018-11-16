@@ -1,0 +1,59 @@
+*{
+	font-family: 'Roboto';
+	border-radius: 0 !important;
+}
+
+.form-group input, 
+.form-group select, 
+.form-group textarea{
+	border-radius: 0px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+#modalPerhatian .modal-header{
+	background-color: #ef000b;
+}
+
+.table td{
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+}
+
+.table td{
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+}
+
+thead tr{
+	background-color: #e6eaf2;
+}
+
+.modal-content  {
+	-webkit-border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	border-radius: 0px !important;
+	background-color: #eaeff7;
+	padding: 10px;
+}
+
+.glyphicon-fire{
+	color: #e5041e;
+}
+
+.glyphicon-exclamation-sign{
+	color: #ed233b;
+}
+
+.glyphicon-repeat{
+	color : #f29704;
+}
+
+.glyphicon-leaf{
+	color: #29bc78;
+}
+
+.glyphicon-thumbs-up{
+	color: #1946fc;
+}
